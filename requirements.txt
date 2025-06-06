@@ -1,0 +1,14 @@
+pdf2image
+Pillow 
+ultralytics
+opencv-python 
+PyMuPDF
+
+# NOTA IMPORTANTE:
+# Para que 'pdf2image' funcione, você também precisará ter o 'Poppler' instalado no seu sistema operacional.
+# O Poppler não é uma biblioteca Python e não é instalado via pip.
+# Consulte a documentação do pdf2image ou pesquise como instalar o Poppler para o seu SO.
+# Exemplos (dependendo do SO):
+# No Linux (Debian/Ubuntu): sudo apt-get install poppler-utils
+# No macOS (Homebrew): brew install poppler
+# No Windows: Baixe os binários pré-compilados do Poppler e adicione-os ao PATH do sistema.
